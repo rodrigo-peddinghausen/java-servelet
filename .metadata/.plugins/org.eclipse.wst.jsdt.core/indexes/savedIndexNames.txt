@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/reikentsu/workspace/Alura/java/java-servlet/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2445391638.index
+1277829467.index
+3076947702.index
+1714655963.index
+1223573623.index
+874034851.index
+2066179223.index
